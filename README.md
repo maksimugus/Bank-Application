@@ -1,2 +1,2 @@
 # Bank-Application
-Lab work 5 in ITMO IS OOP.
+ITMO Software Еngineering OOP lab work 5.
