@@ -1,0 +1,31 @@
+{
+  "version": 2,
+  "dgSpecHash": "HVrG+n7b9+Ku9Fho9MkjTqblE6iczRlBVc4PdmWCwnJvZhyW3mF/+ezMvpmNSL+srtFBTJYJLaLZHIAujYTBWQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\maksi\\RiderProjects\\maksimugus\\src\\Lab5\\Lab5.Application\\Lab5.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maksi\\.nuget\\packages\\fluentmigrator\\3.3.2\\fluentmigrator.3.3.2.nupkg.sha512",
+    "C:\\Users\\maksi\\.nuget\\packages\\fluentmigrator.abstractions\\3.3.2\\fluentmigrator.abstractions.3.3.2.nupkg.sha512",
+    "C:\\Users\\maksi\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\2.0.0\\microsoft.extensions.dependencyinjection.2.0.0.nupkg.sha512",
+    "C:\\Users\\maksi\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\maksi\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\maksi\\.nuget\\packages\\microsoft.extensions.options\\2.0.1\\microsoft.extensions.options.2.0.1.nupkg.sha512",
+    "C:\\Users\\maksi\\.nuget\\packages\\microsoft.extensions.primitives\\2.0.0\\microsoft.extensions.primitives.2.0.0.nupkg.sha512",
+    "C:\\Users\\maksi\\.nuget\\packages\\npgsql\\8.0.1\\npgsql.8.0.1.nupkg.sha512",
+    "C:\\Users\\maksi\\.nuget\\packages\\sourcekit\\1.1.23\\sourcekit.1.1.23.nupkg.sha512",
+    "C:\\Users\\maksi\\.nuget\\packages\\sourcekit.analyzers.collections\\1.0.23\\sourcekit.analyzers.collections.1.0.23.nupkg.sha512",
+    "C:\\Users\\maksi\\.nuget\\packages\\sourcekit.analyzers.enumerable\\1.0.23\\sourcekit.analyzers.enumerable.1.0.23.nupkg.sha512",
+    "C:\\Users\\maksi\\.nuget\\packages\\sourcekit.analyzers.memberaccessibility\\1.0.23\\sourcekit.analyzers.memberaccessibility.1.0.23.nupkg.sha512",
+    "C:\\Users\\maksi\\.nuget\\packages\\sourcekit.analyzers.nullable\\1.0.23\\sourcekit.analyzers.nullable.1.0.23.nupkg.sha512",
+    "C:\\Users\\maksi\\.nuget\\packages\\sourcekit.analyzers.properties\\1.0.23\\sourcekit.analyzers.properties.1.0.23.nupkg.sha512",
+    "C:\\Users\\maksi\\.nuget\\packages\\stylecop.analyzers\\1.2.0-beta.507\\stylecop.analyzers.1.2.0-beta.507.nupkg.sha512",
+    "C:\\Users\\maksi\\.nuget\\packages\\stylecop.analyzers.unstable\\1.2.0.507\\stylecop.analyzers.unstable.1.2.0.507.nupkg.sha512",
+    "C:\\Users\\maksi\\.nuget\\packages\\system.componentmodel.annotations\\4.4.1\\system.componentmodel.annotations.4.4.1.nupkg.sha512",
+    "C:\\Users\\maksi\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.4.0\\system.runtime.compilerservices.unsafe.4.4.0.nupkg.sha512",
+    "C:\\Users\\maksi\\.nuget\\packages\\system.valuetuple\\4.4.0\\system.valuetuple.4.4.0.nupkg.sha512",
+    "C:\\Users\\maksi\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\maksi\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\maksi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

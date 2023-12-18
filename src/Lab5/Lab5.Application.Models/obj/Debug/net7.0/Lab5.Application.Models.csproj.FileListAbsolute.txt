@@ -1,0 +1,14 @@
+C:\Users\maksi\RiderProjects\maksimugus\src\Lab5\Lab5.Application.Models\obj\Debug\net7.0\Lab5.Application.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maksi\RiderProjects\maksimugus\src\Lab5\Lab5.Application.Models\obj\Debug\net7.0\Lab5.Application.Models.AssemblyInfoInputs.cache
+C:\Users\maksi\RiderProjects\maksimugus\src\Lab5\Lab5.Application.Models\obj\Debug\net7.0\Lab5.Application.Models.AssemblyInfo.cs
+C:\Users\maksi\RiderProjects\maksimugus\src\Lab5\Lab5.Application.Models\obj\Debug\net7.0\Lab5.Application.Models.csproj.CoreCompileInputs.cache
+C:\Users\maksi\RiderProjects\maksimugus\src\Lab5\Lab5.Application.Models\obj\Debug\net7.0\Lab5.Application.Models.sourcelink.json
+C:\Users\maksi\RiderProjects\maksimugus\src\Lab5\Lab5.Application.Models\bin\Debug\net7.0\Lab5.Application.Models.deps.json
+C:\Users\maksi\RiderProjects\maksimugus\src\Lab5\Lab5.Application.Models\bin\Debug\net7.0\Lab5.Application.Models.dll
+C:\Users\maksi\RiderProjects\maksimugus\src\Lab5\Lab5.Application.Models\bin\Debug\net7.0\Lab5.Application.Models.pdb
+C:\Users\maksi\RiderProjects\maksimugus\src\Lab5\Lab5.Application.Models\bin\Debug\net7.0\Lab5.Application.Models.xml
+C:\Users\maksi\RiderProjects\maksimugus\src\Lab5\Lab5.Application.Models\obj\Debug\net7.0\Lab5.Application.Models.dll
+C:\Users\maksi\RiderProjects\maksimugus\src\Lab5\Lab5.Application.Models\obj\Debug\net7.0\refint\Lab5.Application.Models.dll
+C:\Users\maksi\RiderProjects\maksimugus\src\Lab5\Lab5.Application.Models\obj\Debug\net7.0\Lab5.Application.Models.xml
+C:\Users\maksi\RiderProjects\maksimugus\src\Lab5\Lab5.Application.Models\obj\Debug\net7.0\Lab5.Application.Models.pdb
+C:\Users\maksi\RiderProjects\maksimugus\src\Lab5\Lab5.Application.Models\obj\Debug\net7.0\ref\Lab5.Application.Models.dll

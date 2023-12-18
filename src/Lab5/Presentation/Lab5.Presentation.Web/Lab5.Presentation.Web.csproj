@@ -1,0 +1,27 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+    <PropertyGroup>
+        <TargetFramework>net7.0</TargetFramework>
+        <Nullable>enable</Nullable>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <RootNamespace>Console</RootNamespace>
+    </PropertyGroup>
+    <PropertyGroup>
+        <ManagePackageVersionsCentrally>true</ManagePackageVersionsCentrally>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="Microsoft.AspNetCore.OpenApi"/>
+        <PackageReference Include="Npgsql" />
+        <PackageReference Include="Swashbuckle.AspNetCore"/>
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\..\Lab5.Application.Abstractions\Lab5.Application.Abstractions.csproj" />
+      <ProjectReference Include="..\..\Lab5.Application.Exceptions\Lab5.Application.Exceptions.csproj" />
+      <ProjectReference Include="..\..\Lab5.Application\Lab5.Application.csproj" />
+      <ProjectReference Include="..\..\Lab5.Application.Contracts\Lab5.Application.Contracts.csproj" />
+      <ProjectReference Include="..\..\Lab5.Infrastructure.DataAccess\Lab5.Infrastructure.DataAccess.csproj" />
+    </ItemGroup>
+
+</Project>

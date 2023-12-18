@@ -1,0 +1,14 @@
+C:\Users\maksi\RiderProjects\maksimugus\src\Lab5\Lab5.Application.Exceptions\obj\Debug\net7.0\Lab5.Application.Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maksi\RiderProjects\maksimugus\src\Lab5\Lab5.Application.Exceptions\obj\Debug\net7.0\Lab5.Application.Exceptions.AssemblyInfoInputs.cache
+C:\Users\maksi\RiderProjects\maksimugus\src\Lab5\Lab5.Application.Exceptions\obj\Debug\net7.0\Lab5.Application.Exceptions.AssemblyInfo.cs
+C:\Users\maksi\RiderProjects\maksimugus\src\Lab5\Lab5.Application.Exceptions\obj\Debug\net7.0\Lab5.Application.Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\maksi\RiderProjects\maksimugus\src\Lab5\Lab5.Application.Exceptions\obj\Debug\net7.0\Lab5.Application.Exceptions.sourcelink.json
+C:\Users\maksi\RiderProjects\maksimugus\src\Lab5\Lab5.Application.Exceptions\bin\Debug\net7.0\Lab5.Application.Exceptions.deps.json
+C:\Users\maksi\RiderProjects\maksimugus\src\Lab5\Lab5.Application.Exceptions\bin\Debug\net7.0\Lab5.Application.Exceptions.dll
+C:\Users\maksi\RiderProjects\maksimugus\src\Lab5\Lab5.Application.Exceptions\bin\Debug\net7.0\Lab5.Application.Exceptions.pdb
+C:\Users\maksi\RiderProjects\maksimugus\src\Lab5\Lab5.Application.Exceptions\bin\Debug\net7.0\Lab5.Application.Exceptions.xml
+C:\Users\maksi\RiderProjects\maksimugus\src\Lab5\Lab5.Application.Exceptions\obj\Debug\net7.0\Lab5.Application.Exceptions.dll
+C:\Users\maksi\RiderProjects\maksimugus\src\Lab5\Lab5.Application.Exceptions\obj\Debug\net7.0\refint\Lab5.Application.Exceptions.dll
+C:\Users\maksi\RiderProjects\maksimugus\src\Lab5\Lab5.Application.Exceptions\obj\Debug\net7.0\Lab5.Application.Exceptions.xml
+C:\Users\maksi\RiderProjects\maksimugus\src\Lab5\Lab5.Application.Exceptions\obj\Debug\net7.0\Lab5.Application.Exceptions.pdb
+C:\Users\maksi\RiderProjects\maksimugus\src\Lab5\Lab5.Application.Exceptions\obj\Debug\net7.0\ref\Lab5.Application.Exceptions.dll

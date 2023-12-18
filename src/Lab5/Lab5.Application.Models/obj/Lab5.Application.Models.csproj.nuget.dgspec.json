@@ -1,0 +1,130 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\maksi\\RiderProjects\\maksimugus\\src\\Lab5\\Lab5.Application.Models\\Lab5.Application.Models.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\maksi\\RiderProjects\\maksimugus\\src\\Lab5\\Lab5.Application.Models\\Lab5.Application.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\maksi\\RiderProjects\\maksimugus\\src\\Lab5\\Lab5.Application.Models\\Lab5.Application.Models.csproj",
+        "projectName": "Lab5.Application.Models",
+        "projectPath": "C:\\Users\\maksi\\RiderProjects\\maksimugus\\src\\Lab5\\Lab5.Application.Models\\Lab5.Application.Models.csproj",
+        "packagesPath": "C:\\Users\\maksi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\maksi\\RiderProjects\\maksimugus\\src\\Lab5\\Lab5.Application.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "centralPackageVersionsManagementEnabled": true,
+        "configFilePaths": [
+          "C:\\Users\\maksi\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "allWarningsAsErrors": true,
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "SourceKit.Analyzers.Collections": {
+              "target": "Package",
+              "version": "[1.0.23, )",
+              "versionCentrallyManaged": true
+            },
+            "SourceKit.Analyzers.Enumerable": {
+              "target": "Package",
+              "version": "[1.0.23, )",
+              "versionCentrallyManaged": true
+            },
+            "SourceKit.Analyzers.MemberAccessibility": {
+              "target": "Package",
+              "version": "[1.0.23, )",
+              "versionCentrallyManaged": true
+            },
+            "SourceKit.Analyzers.Nullable": {
+              "target": "Package",
+              "version": "[1.0.23, )",
+              "versionCentrallyManaged": true
+            },
+            "SourceKit.Analyzers.Properties": {
+              "target": "Package",
+              "version": "[1.0.23, )",
+              "versionCentrallyManaged": true
+            },
+            "StyleCop.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.2.0-beta.507, )",
+              "versionCentrallyManaged": true
+            }
+          },
+          "centralPackageVersions": {
+            "coverlet.collector": "[6.0.0, )",
+            "Crayon": "[2.0.69, )",
+            "FluentMigrator": "[3.3.2, )",
+            "Microsoft.AspNetCore.OpenApi": "[7.0.9, )",
+            "Microsoft.Extensions.DependencyInjection": "[8.0.0, )",
+            "Microsoft.NET.Test.Sdk": "[17.9.0-preview-23577-04, )",
+            "Npgsql": "[8.0.1, )",
+            "NSubstitute": "[5.1.0, )",
+            "SourceKit.Analyzers.Collections": "[1.0.23, )",
+            "SourceKit.Analyzers.Enumerable": "[1.0.23, )",
+            "SourceKit.Analyzers.MemberAccessibility": "[1.0.23, )",
+            "SourceKit.Analyzers.Nullable": "[1.0.23, )",
+            "SourceKit.Analyzers.Properties": "[1.0.23, )",
+            "StyleCop.Analyzers": "[1.2.0-beta.507, )",
+            "Swashbuckle.AspNetCore": "[6.5.0, )",
+            "xunit": "[2.6.3, )",
+            "xunit.runner.visualstudio": "[2.5.5, )"
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.14, 7.0.14]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.14, 7.0.14]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[7.0.14, 7.0.14]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Users\\maksi\\.dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
